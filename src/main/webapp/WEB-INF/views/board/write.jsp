@@ -34,7 +34,7 @@
 		            <tr>
 		                <th>제목</th>
 		                <td>
-		                    <input type="text" name="board_title" style="width:550px" />
+		                    <input type="text" name="title" style="width:550px" />
 		                </td>
 		            </tr>
 		            <tr>
