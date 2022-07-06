@@ -70,6 +70,6 @@ public class BoardComment {
 	public void setDeleted(boolean deleted) {
 		this.deleted = deleted;
 	}
-
+ 
 	
 }
